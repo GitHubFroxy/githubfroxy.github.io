@@ -11,43 +11,34 @@ type: page
 
 ## 关于我
 
-<iframe src="https://githubbadge.appspot.com/gaohaoyang?s=1" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
 
-就职于阿里巴巴集团天猫事业部，前端开发工程师，花名川轼。
+就职于青岛鼎讯通讯股份有限公司，配网类产品嵌入式软件开发。
 
-主要兴趣集中在前端开发，大前端的概念深入我心。将更多的业务逻辑放在前端中，这很有趣。同时，将自己构想的内容实现出来，这种感觉很愉快。
+主要从事嵌入式开发，熟悉使用STM32F系列MCU，对于嵌入式linux有一定程度涉猎，成功移植QT5.5.1到三星4412开发板上。
 
-热爱美好的事物，热爱摇滚乐，组过乐队，卖过唱。
+学习是一个非常愉快的过程。共同加油！
 
-很喜欢崔健的歌词：现实像块石头，精神像个蛋，石头虽然坚硬，可蛋里才是生命。
-
-还有，学习是一个非常愉快的过程。共同加油！
-
-* 2016.6.30 入职阿里巴巴天猫事业部
-* 2016.6 毕业于西安交通大学 软件工程硕士
-* 2015.12 获得2014-2015学年二等奖学金
-* 2015.7-2015.8 联想服务，前端开发工程师（实习生）
-* 2013.6 毕业于西安交通大学 理学院
-* 2001 获得西航四校总成绩年级排名第八名
+* 2017.4 入职青岛鼎信通讯股份有限公司
+* 2014.7~2017.2 进入一家创业公司从事智能电容器的研制
+* 2015.6 毕业于青岛科技大学 智能控制理论及应用硕士
+* 2013.6 毕业于青岛科技大学 自动化专业
 
 ## 联系我
 
-* GitHub：[Gaohaoyang](https://github.com/Gaohaoyang)
-* email：gaohaoyang126@126.com
-* [Weibo](http://weibo.com/3115521wh)
-* [知乎](https://www.zhihu.com/people/gaohaoyang)
-* [Facebook](https://www.facebook.com/gaohaoyang.water)
-* [Twitter](https://twitter.com/gaohaoyang126)
-* [豆瓣](https://www.douban.com/people/42525035/)
-* [豆瓣音乐人-浩阳的小站](https://site.douban.com/haoyangaiyinyue/)
+* GitHub：[GitHubFroxy](https://github.com/GitHubFroxy)
+* CSDN：[froxy](https://blog.csdn.net/froxy)
+* email：yangchongxin@126.com
+* QQ：1065354620
 
 ## 关于本站
 
-**若您想使用这个 jekyll 博客主题，请访问：[https://github.com/Gaohaoyang/gaohaoyang.github.io](https://github.com/Gaohaoyang/gaohaoyang.github.io)**
+**若您想使用这个 jekyll 博客主题，请访问：[https://github.com/GitHubFroxy/githubfroxy.github.io](https://github.com/GitHubFroxy/githubfroxy.github.io)**
 
 ~欢迎使用~
 
-欢迎大家提一些对本站主题的建议，可以直接在下面留言或者新建一个 [Issue](https://github.com/Gaohaoyang/gaohaoyang.github.io/issues)。
+欢迎大家提一些对本站主题的建议，可以直接在下面留言或者新建一个 [Issue](https://github.com/GitHubFroxy/githubfroxy.github.io/issues)。
+
+在这里感谢高浩阳（阿里前端工程师）制作的博客模板！
 
 ### Update Log
 
