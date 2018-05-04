@@ -8,11 +8,7 @@ tags: QT  QFileSystemModel
 * content
 {:toc}
 
-
-
 介绍使用QFileSystemModel类实现文件过滤功能。
-
-
 
 
 
