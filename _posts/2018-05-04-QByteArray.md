@@ -6,7 +6,10 @@ categories: QT
 tags: QT  QByteArray
 ---
 
-QByteArray用法小总结
+* content
+{:toc}
+
+QByteArray用法小总结。
 
 
 1、代码如下
