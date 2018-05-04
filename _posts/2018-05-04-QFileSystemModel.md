@@ -13,7 +13,7 @@ tags: QT  QFileSystemModel
 
 
 1、代码如下
-``` 
+``` C++
     dirmodel=new QFileSystemModel();  
     dirmodel->setRootPath(QDir::currentPath());//设置根目录  
     
@@ -28,6 +28,6 @@ tags: QT  QFileSystemModel
 dirmodel 是QFileSystemModel的一个实例，如果过滤选项发生变更，只需要重新对dirmodel设置过滤器即可。
 
 2、提取文件名
-```
+```C++
 qDebug()<<dirmodel->fileName(index); 
 ```

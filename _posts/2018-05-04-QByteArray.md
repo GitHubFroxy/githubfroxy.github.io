@@ -12,8 +12,11 @@ tags: QT  QByteArray
 QByteArray用法小总结。
 
 
+
+
+
 1、代码如下
-``` 
+``` c++
      QByteArray array;  
     array.resize(3);  
       
